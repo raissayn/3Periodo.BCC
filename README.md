@@ -1,4 +1,4 @@
-# 2° Período - BCC
+# 3° Período - BCC
 Este repositório tem como objetivo armazenar os materiais utilizados e os trabalhos realizados durante o 3° período do curso de Bacharelado em Ciência da Computação (BCC) na Universidade Federal de Alfenas (UNIFAL-MG).
 
 # 📚 Conteúdo
